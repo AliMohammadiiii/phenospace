@@ -1,0 +1,46 @@
+# ---- Environment / tooling ----
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+.eggs/
+*.egg-info/
+
+# ---- Binary / regenerable artifacts (provenance tracked via manifests) ----
+*.h5ad
+*.soma/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.hdf5
+*.parquet*
+*.zip
+
+# ---- Raw participant questionnaires (de-identified; not committed) ----
+data/raw/questionnaires/
+data/raw/ontology/
+
+# ---- Archive is a byte-level ledger of preserved originals; it is *not*
+#      committed to VCS because every byte is recapturable from the repository
+#      audit manifests (original_file_inventory.csv, reorganization_manifest.csv).
+#      The archive/ folder itself is fully excluded.
+archive/
+
+# ---- Project-local logs / caches ----
+*.log
+.ols_cache/
+results_cache/
+**/ols_cache/
+.pytest_cache/
+.ruff_cache/
+
+# ---- Scratch ----
+scratch/
+tmp/
+# ---- Python distribution builds ----
+build/
+dist/

@@ -1,0 +1,7 @@
+# License scope
+
+MIT applies to the original software and its software documentation. Ali Mohammadi asserted full ownership and authorized public code release on 2026-10-02. This does not grant rights to third-party data, literature, journal templates, bibliography styles, or vendored dependencies. Their original terms continue to apply. This standalone public snapshot excludes the original participant-level records, research papers and ontology data; references in its historical metadata do not redistribute those materials. Manuscripts and figures are scholarly materials and the software license does not relicense them. SAGE template files were supplied only in a separate SAGE typesetting bundle for preparation of an article for a SAGE journal, with their original terms included.
+
+# Historical assessment data credit
+
+The original research archive used Su, Zhao, “Data from: Temporal dynamics in psychological assessments: a novel dataset with scales and response times,” Zenodo, DOI: https://doi.org/10.5281/zenodo.10423537. The Zenodo record specifies [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) and describes 24,292 student responses. The original archive contains the five source CSVs and processed and model-derived participant-level data; the latter are modifications, not unchanged source data. These data are not included in this snapshot. Data use and redistribution must respect applicable data and third-party terms.

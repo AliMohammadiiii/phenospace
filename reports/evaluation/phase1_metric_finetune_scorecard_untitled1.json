@@ -1,0 +1,18 @@
+{
+  "run_id": "untitled1",
+  "pipeline": "phase1_metric_finetune",
+  "model": "transbox/gemma-metric-tuning",
+  "best_step": 500,
+  "best_score": 0.8621342537411909,
+  "data": {
+    "n_cards": 1671,
+    "n_subclass_edges": 1919,
+    "n_equiv_edges": 44
+  },
+  "baseline": {
+    "mean_parent_rank": 198.6951537258989
+  },
+  "final": {
+    "mean_parent_rank": 7.9869723814486715
+  }
+}

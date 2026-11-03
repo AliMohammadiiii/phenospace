@@ -1,0 +1,3 @@
+# PhenotypeSpace public snapshot
+
+The maintained CPU pipeline, data contract and historical method map are described in [MAINTAINED_PIPELINE.md](MAINTAINED_PIPELINE.md). This standalone snapshot contains maintained code, tests, provenance inventories and the selected historical Python files named in that map. Participant records, papers, ontology data and bulk generated research outputs are excluded; an aggregate historical scorecard is included for a repository test. The original full history is being retained in a private research archive; access is not implied. Registry and inventory entries are archival metadata, not a promise that the referenced files are included.
